@@ -7,7 +7,7 @@
 from distutils.core import setup
 import sys
 
-version = '2018.4.18'
+version = '2018.4.24'
 
 setup(
   name = 'better',
